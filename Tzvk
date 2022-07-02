@@ -26,6 +26,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-name="TVE RS" tvg-logo="" group-title="Abertos",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
+#EXTINF:-1 tvg-name="MEGA" tvg-logo="" group-title="FILMES",MEGA
+https://live.xvideosporn.me/p2p/megapix/chunks.m3u8?nimblesessionid=4047458&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjIgMTE6MjI6MDUgUE0maGFzaF92YWx1ZT1SZnpVS1AyQjQwTUdsMlNuek9wOGtRPT0mdmFsaWRtaW51dGVzPTkw
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-name="TWD 11x1" tvg-logo="https://geekcity.ru/wp-content/uploads/2013/09/Walking-Dead-Logo.jpg" group-title="TWD",TWD 11x1
