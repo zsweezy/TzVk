@@ -1,5 +1,3 @@
------------------------------------------ ABERTOS -----------------------------------------------------------------------------------------------------------------------------------------
-
 #EXTM3U
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="" group-title="Abertos",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -28,8 +26,8 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-name="TVE RS" tvg-logo="" group-title="Abertos",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
------------------------------------------ TWD ---------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-name="TWD 11x1" tvg-logo="" group-title="TWD",TWD 11x1
+#EXTINF:-1 tvg-name="TWD 11x1" tvg-logo="https://imgur.com/t/twd/v2GR8cO" group-title="TWD",TWD 11x1
 https://www-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https://dsad2.ml/tsfiles/FAFBCCCD/360K/2021/DFDBDEBE/11/BACAAGFE/17/FAECCEDC/10012-000.webp
 
