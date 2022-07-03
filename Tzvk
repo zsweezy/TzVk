@@ -3,9 +3,16 @@
 ################################################################################# TWD
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x1
-http://granado.tk:8080/d/RedeCanais/RedeCanais/RCServer15/ondemand/TWDT11EP01.mp4?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgMTI6MTM6MTYgQU0maGFzaF92YWx1ZT1iVnZmNi9nMjh4L0RpVGpnN0FxaHRRPT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&wmsAuthSign=&attachment=true&nimblesessionid=1483014
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x1.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x1
-https://video-downloads.googleusercontent.com/AGQNM9KvWZ-_LvYaf-kfx2d_anu2QE-FlxOsa5qrzjTrZTLIq6bTjMAGaN9WJfbkXcwzDzXtfGijwocnytwkB78Uqq2pUKzI9MNpDYF4Z6pMsVIXMrE7qoC77vMgb85GNPdMiOuoytICKdfwzeDNIF8p0ZxGqXzYae0F8BD0gkAXxqvux91ZUkOUR57CYmwGo7rUYCdcrWDEtjmX6EffRKIc3Ev4YBDmC_C9o0ErR9KuQREQL4tm6jyoRLE2oY3ZI0bnhunEZIsb9fDtX4ZeWn04MGbEx4c-wr7a3WB8PEakNROdB6Ympj7sBk5gxGTUANgmTAyclpGNo66fS4BC3pPT7tCUAyNtlEwKSLomP9ZVZVz1K8Qo32pa6y7nKEct5SzXQqIgBh2yelwTvCSxU7PNzl6hLTbE8_267YTBBTlkkNuVnbeL43xNdes_tBNdi-iCmMoD0IPOi7uV9x9R5_5V7ODr8gmhD4wAkiR-PcJAcqzmVj-wZ98Cak2mqPFNoiHvWVWayHgLfnbe9m1hG6bpf9Ay-dTobOtNgKfmGc6V6d29NzAReXSzf06-Wtkaemu5IDoUlDazdk6jsSX7eTGBrNbeTHO-2g17tNKPnUMlqbBM-nvVTgIoVU67bQ4HQP6ID-sgqX9NXVP6rAt8vnUWCg8bHTTth5-04LIviwjE_9Pr6uyZf9vV7VoU27nInsryMOlU6210rF_D5P4lnnXfFnSFcEpxB66oQQBKGeJkgF5c6sBxwFN3_dNwBl7NUZCELpd3kBZrah7yarvdUiVM6cgyHa65itjYphEMqpcfp42sQZWVVyd4-2KFkY4A77Fi0uJoLoBaK41epmzNvSpgyb_zLXO4-Oza6wEi5perCYsEE0Pbg6nDQlm-FTk-87haVZJwe5C_fpBaeqfKmjLFDBsOFxkllQ?authuser=0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x2
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x2.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x3
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x3.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x4
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x5
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x5.mp4
