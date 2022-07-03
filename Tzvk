@@ -16,3 +16,6 @@ http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x4.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x5
 http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x5.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",A FLORESTA
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt0380066.mp4
