@@ -17,5 +17,17 @@ http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x5
 http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x5.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FROM",FROM 1x1
+http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x1LEG.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",A FLORESTA
 http://server-fhd02.lionflixapp.xyz:80/token/05/tt0380066.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",Jurassic world
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt8041270.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",Morbius
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt5108870.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",PÂNICO 5
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt11245972.mp4
