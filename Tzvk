@@ -1,35 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="" group-title="Abertos",ALL Sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-name="COM Brasil" tvg-logo="" group-title="Abertos",COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-name="SBT" tvg-logo="" group-title="Abertos",SBT
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="" group-title="Abertos",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Futura" tvg-logo="" group-title="Abertos",Futura
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-name="Record" tvg-logo="" group-title="Abertos",Record
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 tvg-name="RBC" tvg-logo="" group-title="Abertos",RBC
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF#EXTINF:-1 tvg-name="Anime TV" tvg-logo="" group-title="Abertos",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Record News" tvg-logo="" group-title="Abertos",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="" group-title="Abertos",ISTV
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="" group-title="Abertos",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="" group-title="Abertos",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-name="TVE RS" tvg-logo="" group-title="Abertos",TVE RS
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MEGA" tvg-logo="" group-title="FILMES",MEGA
-https://live.xvideosporn.me/p2p/megapix/chunks.m3u8?nimblesessionid=4047458&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjIgMTE6MjI6MDUgUE0maGFzaF92YWx1ZT1SZnpVS1AyQjQwTUdsMlNuek9wOGtRPT0mdmFsaWRtaW51dGVzPTkw
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+################################################################################# TWD
 
-#EXTINF:-1 tvg-name="TWD 11x1" tvg-logo="https://geekcity.ru/wp-content/uploads/2013/09/Walking-Dead-Logo.jpg" group-title="TWD",TWD 11x1
-http://amoravel.ga:8080/d/RedeCanais/RedeCanais/RCServer15/ondemand/TWDT11EP01.mp4?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjIgOTo1NzoxNiBQTSZoYXNoX3ZhbHVlPUhiaUlYKytyRUFvdCtlRlFqdXFrTFE9PSZ2YWxpZG1pbnV0ZXM9NDgwJmlkPTU=&wmsAuthSign=&attachment=true&nimblesessionid=1479417
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x1
+http://granado.tk:8080/d/RedeCanais/RedeCanais/RCServer15/ondemand/TWDT11EP01.mp4?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgMTI6MTM6MTYgQU0maGFzaF92YWx1ZT1iVnZmNi9nMjh4L0RpVGpnN0FxaHRRPT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&wmsAuthSign=&attachment=true&nimblesessionid=1483014
