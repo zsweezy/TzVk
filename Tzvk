@@ -1,36 +1,5 @@
 #EXTM3U
 
-################################################################################# AO VIVO
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",DISCOVERY TURBO
-https://live.xvideosporn.me/p2p/discoveryturbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzoyNTo0OSBBTSZoYXNoX3ZhbHVlPVhXRnFrWUZXcnN6VEdad29sei9EMlE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",MEGAPIX
-https://live.xvideosporn.me/p2p/megapix/chunks.m3u8?nimblesessionid=4114503&wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjozODo0NyBBTSZoYXNoX3ZhbHVlPWZZek15UDRrVmdIWjVMYkNqcFRqQkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",STAR +
-https://live.xvideosporn.me/p2p/starchannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjo0NTo0NyBBTSZoYXNoX3ZhbHVlPTZEYkxYSTJ6S044aVc4RHV3MFp5NHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",WARNER CHANNEL
-https://live.xvideosporn.me/p2p/warnerchannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjo0Njo1MSBBTSZoYXNoX3ZhbHVlPUVpL0ZjTE9jcUpNbjhDTitMT0VxRGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",SPACE
-https://live.xvideosporn.me/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjo1MjowNCBBTSZoYXNoX3ZhbHVlPW1zeVZVcE5XKzZld2NiL2sxL0gvWkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",TELECINE PIPOCA
-https://live.xvideosporn.me/p2p/tlcpipoca/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjo1NToyNCBBTSZoYXNoX3ZhbHVlPWdKekFlRDFWajgxeHFxeTBlSkl5aVE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",TNT SERIES
-https://live.xvideosporn.me/p2p/tntseries/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjo1ODoxMSBBTSZoYXNoX3ZhbHVlPXRlbVBVbGZFN1NLYVVxYUladzNiUFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",TNT
-https://live.xvideosporn.me/p2p/tnt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMjo1OToyMyBBTSZoYXNoX3ZhbHVlPUtZQ0RrT2NQNjdJVHNRc2lKb2NGd0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",HBO EXTREME
-https://live.xvideosporn.me/p2p/hboextreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzowNTozNyBBTSZoYXNoX3ZhbHVlPWNjcnJBSFpOc0doVFBWeXlqenpmaFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",HBO SIGNATURE
-https://live.xvideosporn.me/p2p/hbosignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzowNjo0OCBBTSZoYXNoX3ZhbHVlPWpEcGdKWFhZSXgzNktrTkxrSDNPYUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",HBO PLUS
-https://live.xvideosporn.me/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzowODoxNyBBTSZoYXNoX3ZhbHVlPVJ6bkduZU9SR0VqL0ZWQ2ttVHBmMWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",HBO FAMILY
-https://live.xvideosporn.me/p2p/hbofamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzowODo1NCBBTSZoYXNoX3ZhbHVlPU5QWHVXOTQvczg0TFhURDlUNWZtYkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",WARNER CHANNEL
-https://live.xvideosporn.me/p2p/warnerchannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzoxNzozOSBBTSZoYXNoX3ZhbHVlPS9heGhqd0M4cnE5K1ZRc3Vna0NSc0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AO VIVO",CARTOON
-https://live.xvideosporn.me/p2p/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzoyNDoxOCBBTSZoYXNoX3ZhbHVlPU12Sm9USEQ1OGFJb3B0YmtJVkJkZWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-
 ################################################################################# PLANETA PRÈ HISTORICO
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLANETA PRÈ HISTORICO",PLANETA PRÈ HISTORICO 1x1
@@ -44,7 +13,11 @@ http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLANETA PRÈ HISTORICO",PLANETA PRÈ HISTORICO 1x5
 http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x5.mp4
 
+
+
 ################################################################################# TWD
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x1
 http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x1.mp4
@@ -79,7 +52,11 @@ http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x15.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x16
 http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x16.mp4
 
+
+
 ################################################################################# FROM
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FROM",FROM 1x1
 http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x1LEG.mp4
@@ -102,7 +79,11 @@ http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x9LEG.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FROM",FROM 1x10
 http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x10LEG.mp4
 
+
+
 ################################################################################# FILMES LANÇAMENTOS
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",O QUARTO MOSQUETEIRO
 http://server-fhd03.lionflixapp.xyz:80/token/04/tt15711350.mp4
@@ -140,16 +121,44 @@ http://server-fhd03.lionflixapp.xyz:80/token/04/tt6054846.mp4
 http://server-fhd03.lionflixapp.xyz:80/token/04/tt14915608.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",PANICO
 http://orka2.shipblackpoint.tk:80/token:bsn964TBpajo25gjfEsp/flm22/Panico2022.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",OS SEGREDOS DE DUBLEDORE
-http://64.31.40.86:23818/vod/1D3EE4D871364828B0F029B27F1549B9_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.40.86:23818%26app_id%3Dcom.mobile.brasiltvmobile%26trans_id%3DII3JtDqFAxbH_O4JKTUqigBut%26app_version%3D22401%26client_ip%3D170.150.0.96%26dev_id%3De8fcff835b44f64097492d3577212365%26auth_id%3D77076806_com.mobile.brasiltvmobile%26user_id%3D77076806%26expired%3D1656915310%26token%3D6e9bfd9d3066ed1ceec641e4d3134d25&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.brasiltvmobile%26media_code%3D1D3EE4D871364828B0F029B27F1549B9%26expired%3D1656915310%26token%3Da756e0683579a2a53ade1d3a07bd9c23&cache_path=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",O HOMEN DO NORTE
-http://64.31.40.86:23818/vod/6CEA70F8DBD044229E9BC21649D02C71_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.40.86:23818%26app_id%3Dcom.mobile.brasiltvmobile%26trans_id%3DII3JtDqFAxbH_Y8OD2zDHtcO%26app_version%3D22401%26client_ip%3D170.150.0.96%26dev_id%3De8fcff835b44f64097492d3577212365%26auth_id%3D77076806_com.mobile.brasiltvmobile%26user_id%3D77076806%26expired%3D1656915310%26token%3D97c9c9ab0289cb924725853fd38b217b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.brasiltvmobile%26media_code%3D6CEA70F8DBD044229E9BC21649D02C71%26expired%3D1656915310%26token%3D5a5df877d43a0d807423f31ce929eb78&cache_path=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",APEX
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt13265876.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",MEU VIZINHO MAFIOSO
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt0190138.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",CENTAURO
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt5951188.mp4
 
-################################################################################# CINE TERROR
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE TERROR",A FLORESTA
+
+################################################################################# TERROR
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",A FLORESTA
 http://server-fhd02.lionflixapp.xyz:80/token/05/tt0380066.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE TERROR",NÂO ME MATE
-http://server-fhd03.lionflixapp.xyz:80/token/04/tt11116374.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE TERROR",O MASSACRE DA SERRA ELETRICA
-http://server-fhd03.lionflixapp.xyz:80/token/04/tt11755740.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",POST MORTEM-FOTOS DO ALÈM
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt9834506.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",COMPORTAMENTO SUSPEITO
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt0134619.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",NO CAIR DA NOITE
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt0282209.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",A ESCURIDÂO
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt1878841.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",ASSASSINO INVISIVEL
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt2561546.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",CADAVER
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt5734576.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TERROR",O ENVIADO 
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt0190138.mp4
+
+
+
+################################################################################# AÇÂO
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AÇÂO",RESGATE NAS ALTURAS
+http://server-fhd02.lionflixapp.xyz:80/token/05/tt1986857.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AÇÂO",O SOBREVIVENTE
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt13694706.mp4
+
