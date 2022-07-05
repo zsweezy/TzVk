@@ -79,7 +79,8 @@ http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x9LEG.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FROM",FROM 1x10
 http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x10LEG.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",panico
+http://topseries.playhdlugo.online:80/token.mp4/?e=/token:bsn964TBpajo25gjfEsp/flm22/Panico2022.mp4
 
 ################################################################################# FILMES LANÇAMENTOS
 
