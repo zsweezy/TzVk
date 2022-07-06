@@ -159,3 +159,188 @@ http://server-fhd02.lionflixapp.xyz:80/token/05/tt1986857.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AÇÂO",O SOBREVIVENTE
 http://server-fhd03.lionflixapp.xyz:80/token/04/tt13694706.mp4
 
+
+
+################################################################################# NETFLIX
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",A Marca do Demónio
+https://vod-meta.wix.com/secure-files/95015c9e0c6e4c9ead411d1440272f25.mp4?secure_data=c2F2ZV9hc19uYW1lPWFtYXJjYWRvZGVtb25pbzIwMjAubXA0Jm5vbmNlPWRhNDA5ODg3MDU0ZSZleHBpcmF0aW9uX3RzPTE2NDAzODU1ODgmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzk1MDE1YzllMGM2ZTRjOWVhZDQxMWQxNDQwMjcyZjI1LzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=78fc820552d863da7e9fa215ce1e4e7f10a28515
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Campo do Medo
+https://vod-meta.wix.com/secure-files/f6c1e72216ae4a128e990924bb33b35a.mp4?secure_data=c2F2ZV9hc19uYW1lPWNhbXBvZG9tZWRvLm1wNCZub25jZT1iYWViNjg4MjUzN2YmZXhwaXJhdGlvbl90cz0xNjQwMzg1NjM2JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby9mNmMxZTcyMjE2YWU0YTEyOGU5OTA5MjRiYjMzYjM1YS80ODBwL21wNC9maWxlLm1wNA==&secure_sig=e4e98fb6d12f1c448a285135d7c15a451c4b2e6f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Cargo
+https://vod-meta.wix.com/secure-files/b77747b720e5424992ac162ddfad92fd.mp4?secure_data=c2F2ZV9hc19uYW1lPWNhcmdvbmV0ZmxpeC5tcDQmbm9uY2U9NDYzOTQyODkzMzZiJmV4cGlyYXRpb25fdHM9MTY0MDM4NTcwOCZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vYjc3NzQ3YjcyMGU1NDI0OTkyYWMxNjJkZGZhZDkyZmQvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=598ba79e99847d3c6e507878dcb1a29db6496307
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",A Barraca do Beijo
+https://vod-meta.wix.com/secure-files/c60782aa29674105973e07eb3092664f.mp4?secure_data=c2F2ZV9hc19uYW1lPUFCYXJyYWNhZG9CZWlqby5tcDQmbm9uY2U9Yjc2NmMwMzE2YWViJmV4cGlyYXRpb25fdHM9MTY0MDM4NTczNyZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vYzYwNzgyYWEyOTY3NDEwNTk3M2UwN2ViMzA5MjY2NGYvMTA4MHAvbXA0L2ZpbGUubXA0&secure_sig=ae8b015d09acd891147c862b59e19630bfd31628
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Amor em Obras
+https://vod-meta.wix.com/secure-files/63487d77bdcb4ebc9402f56c424dc4ba.mp4?secure_data=c2F2ZV9hc19uYW1lPUFtb3JlbU9icmFzLm1wNCZub25jZT00ZmE0YzgwNGNmYjgmZXhwaXJhdGlvbl90cz0xNjQwMzg1Nzg5JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby82MzQ4N2Q3N2JkY2I0ZWJjOTQwMmY1NmM0MjRkYzRiYS83MjBwL21wNC9maWxlLm1wNA==&secure_sig=ca4b011b3c3ae13ce342a20d6a4225199ebea871
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Crush Ã Altura
+https://vod-meta.wix.com/secure-files/127b4cc7e4cd4ff98916c39a4e47fb21.mp4?secure_data=c2F2ZV9hc19uYW1lPUNydXNoYUFsdHVyYS5tcDQmbm9uY2U9ZTMyNDA5ZmNiNGVmJmV4cGlyYXRpb25fdHM9MTY0MDM4NTgxNiZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vMTI3YjRjYzdlNGNkNGZmOTg5MTZjMzlhNGU0N2ZiMjEvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=45e916fff14b514e5636eca5bc6dd5347de9e8bf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Inimigo Desconhecido
+https://vod-meta.wix.com/secure-files/b5ee1f97d4ed44b7a9599b486ba7189a.mp4?secure_data=c2F2ZV9hc19uYW1lPWluaW1pZ29kZXNjb25oZWNpZG8ubXA0Jm5vbmNlPTg2NGQzNGVkNWQyZiZleHBpcmF0aW9uX3RzPTE2NDAzODU4NDkmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvL2I1ZWUxZjk3ZDRlZDQ0YjdhOTU5OWI0ODZiYTcxODlhLzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=6accd9803852779697b0a6d9cea3c903979ae054
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Os Últimos Dias do Crime Americano
+https://vod-meta.wix.com/secure-files/34c864c5edfa49909c17839c2926f790.mp4?secure_data=c2F2ZV9hc19uYW1lPVRoZS5MYXN0LkRheXMub2YuQW1lcmljYW4uQ3JpbWUuMjAyMC5OZXRmbGl4Lm1wNCZub25jZT1mNWRiZjJhNDA5ZjImZXhwaXJhdGlvbl90cz0xNjQwMzg1OTI1JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8zNGM4NjRjNWVkZmE0OTkwOWMxNzgzOWMyOTI2Zjc5MC83MjBwL21wNC9maWxlLm1wNA==&secure_sig=7a6cd1b318f89567cbd6bd5c900de77d7198baaf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",A Ãšltima Coisa que Ele Queria
+https://vod-meta.wix.com/secure-files/0f1ce5bd5c2547b6b4f2e60427c3adcd.mp4?secure_data=c2F2ZV9hc19uYW1lPWF1bHRpbWFjb2lzYXF1ZWxlcXVlcmlhLm1wNCZub25jZT0wOGFkM2U0YTEwYzQmZXhwaXJhdGlvbl90cz0xNjQwMzg1OTUxJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8wZjFjZTViZDVjMjU0N2I2YjRmMmU2MDQyN2MzYWRjZC83MjBwL21wNC9maWxlLm1wNA==&secure_sig=9beb162a4735997a41cf890527002d48767aabee
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Troco em Dobro
+https://vod-meta.wix.com/secure-files/7d4b77aa17bb4aca85ee81b6c22279e7.mp4?secure_data=c2F2ZV9hc19uYW1lPVRyb2NvLmVtLkRvYnJvLjIwMjAuTmV0ZmxpeC5tcDQmbm9uY2U9NTQ1ZjgzZjM1ZGRmJmV4cGlyYXRpb25fdHM9MTY0MDM4NTk4NyZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vN2Q0Yjc3YWExN2JiNGFjYTg1ZWU4MWI2YzIyMjc5ZTcvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=6fc57861fb5653eac09e7f894d10ebb00c4c28c1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Missão: Impossível - Protocolo Fantasma
+https://vod-meta.wix.com/secure-files/9497d22bde704a548076c3b3048fa18f.mp4?secure_data=c2F2ZV9hc19uYW1lPW1pc3Nhb2ltcG9zc2l2ZWw0bXA0Lm1wNCZub25jZT1iODY0MzIwMWRhY2ImZXhwaXJhdGlvbl90cz0xNjQwMzg2MDQ0JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby85NDk3ZDIyYmRlNzA0YTU0ODA3NmMzYjMwNDhmYTE4Zi80ODBwL21wNC9maWxlLm1wNA==&secure_sig=f1603de5a15ddc2cdee298267c8f0179a8024c38
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Project Power
+https://vod-meta.wix.com/secure-files/ecd7de2e74574378bb83a8787afa38b1.mp4?secure_data=c2F2ZV9hc19uYW1lPXBvd2VyMjAyMC5tcDQmbm9uY2U9MjQ5MjcyMTlhZGJhJmV4cGlyYXRpb25fdHM9MTY0MDM4NjA5MyZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vZWNkN2RlMmU3NDU3NDM3OGJiODNhODc4N2FmYTM4YjEvMTA4MHAvbXA0L2ZpbGUubXA0&secure_sig=15694b08f565f20e938bef9d77650ef8e38c001b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Dançarina Imperfeita
+https://vod-meta.wix.com/secure-files/e5f92419e8f9414e9a589683cd650d10.mp4?secure_data=c2F2ZV9hc19uYW1lPWRhbmNhcmluYWltcGVyZmVpdGEubXA0Jm5vbmNlPWJlODljMDViMjY4YyZleHBpcmF0aW9uX3RzPTE2NDAzODYxMzQmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvL2U1ZjkyNDE5ZThmOTQxNGU5YTU4OTY4M2NkNjUwZDEwLzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=fecc5e51c3de9da392403e9f7f4faebfca9238aa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Poço
+https://vod-meta.wix.com/secure-files/9c4501b08d7e40baa353ef211958d8da.mp4?secure_data=c2F2ZV9hc19uYW1lPU9Qb2NvMjAyMC5tcDQmbm9uY2U9ZGM0YWY2OGVhMGVmJmV4cGlyYXRpb25fdHM9MTY0MDM4NjE2NiZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vOWM0NTAxYjA4ZDdlNDBiYWEzNTNlZjIxMTk1OGQ4ZGEvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=62a03298ed642266c10c2b7369a3dd56c5d2d764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Cruzeiro das Loucas (2002)
+https://vod-meta.wix.com/secure-files/2daf5559aa4a4bc6af535abf54fd32ee.mp4?secure_data=c2F2ZV9hc19uYW1lPUNydXplaXJvZGFzTG91Y2FzLm1wNCZub25jZT03ZTkzMjM3MGEwODkmZXhwaXJhdGlvbl90cz0xNjQwMzg2MjIyJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8yZGFmNTU1OWFhNGE0YmM2YWY1MzVhYmY1NGZkMzJlZS80ODBwL21wNC9maWxlLm1wNA==&secure_sig=ed1f975e2b84e7441d6910b8cdfccb591fd70af5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Nível Difícil
+https://vod-meta.wix.com/secure-files/b7d67bdfb68a47f09150845cad8ce2d4.mp4?secure_data=c2F2ZV9hc19uYW1lPW5pdmVsaGFyZDIwMjAubXA0Jm5vbmNlPTM1MTAzNjM2MzY3NyZleHBpcmF0aW9uX3RzPTE2NDAzODYyNDgmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvL2I3ZDY3YmRmYjY4YTQ3ZjA5MTUwODQ1Y2FkOGNlMmQ0LzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=dc8001dcfa1ee2034d9eadae49516ec698459260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Breaking Bad: El Camino
+https://vod-meta.wix.com/secure-files/f44652c6435640afbb8af3a0b9019f5b.mp4?secure_data=c2F2ZV9hc19uYW1lPWVsY2FtaW5vYnJlYWtpbmJhZC5tcDQmbm9uY2U9YjcxYTc3OWVmYWIwJmV4cGlyYXRpb25fdHM9MTY0MDM4NjI3OCZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vZjQ0NjUyYzY0MzU2NDBhZmJiOGFmM2EwYjkwMTlmNWIvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=11da9433a1413ee3dc078228944960314b980b75
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Missão: Impossível - Nação Secreta
+https://vod-meta.wix.com/secure-files/1adaf63f13bf4f0c868e8546195f82b8.mp4?secure_data=c2F2ZV9hc19uYW1lPW1pc3Nhb2ltcG9zc2l2ZWw1Lm1wNCZub25jZT02OWQyNzYxYzMzNjcmZXhwaXJhdGlvbl90cz0xNjQwMzg2MzE0JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8xYWRhZjYzZjEzYmY0ZjBjODY4ZTg1NDYxOTVmODJiOC80ODBwL21wNC9maWxlLm1wNA==&secure_sig=5f9bc2e89aa4cc58fdeb5fd124948c0bb694a304
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX", Não Case! Parte III (2013)
+https://vod-meta.wix.com/secure-files/e146d4ce2838412fa552ef27173b8189.mp4?secure_data=c2F2ZV9hc19uYW1lPXNlYmViZXJuYW9jYXNlMy5tcDQmbm9uY2U9YTVkODJjMjhiODgxJmV4cGlyYXRpb25fdHM9MTY0MDM4NjM2MSZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vZTE0NmQ0Y2UyODM4NDEyZmE1NTJlZjI3MTczYjgxODkvNDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=854a70631466b94321455dde6725d71c0c5620fc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX", Não Case! Parte II (2011)
+https://vod-meta.wix.com/secure-files/07059bad648445a68e80d20ee38e3e10.mp4?secure_data=c2F2ZV9hc19uYW1lPXNlYmViZXJuYW9jYXNlMi5tcDQmbm9uY2U9YzdiYzBlMjVmODA5JmV4cGlyYXRpb25fdHM9MTY0MDM4NjM5MiZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vMDcwNTliYWQ2NDg0NDVhNjhlODBkMjBlZTM4ZTNlMTAvNDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=00987bdd51e2330a4f347b9e0ebd640e55b5e171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX", Não Case! (2009)
+https://vod-meta.wix.com/secure-files/b01b256fe0034d43819e5d5d5a584b9a.mp4?secure_data=c2F2ZV9hc19uYW1lPXNlYmViZXJuYW9jYXNlMS5tcDQmbm9uY2U9NjI0YTE4OThiODdhJmV4cGlyYXRpb25fdHM9MTY0MDM4NjQxOSZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vYjAxYjI1NmZlMDAzNGQ0MzgxOWU1ZDVkNWE1ODRiOWEvNDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=78545d42d84fa4f479548c54413fa857c7a087cd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Notas de Rebeldia (2020)
+https://vod-meta.wix.com/secure-files/c0e3149e0f67461497264e9d2b8923a0.mp4?secure_data=c2F2ZV9hc19uYW1lPW5vdGFzZGVyZWJlbGRpYS5tcDQmbm9uY2U9ZGE3MmUyMTBjZjAwJmV4cGlyYXRpb25fdHM9MTY0MDM4NjQ0MCZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vYzBlMzE0OWUwZjY3NDYxNDk3MjY0ZTlkMmI4OTIzYTAvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=c0954b992da5d359baad234d783eb663506b5254
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Crimes de Família
+https://vod-meta.wix.com/secure-files/d13a46c8929e488e9172041d7d4e60eb.mp4?secure_data=c2F2ZV9hc19uYW1lPWNyaW1lc2RlZmFtaWxpYW5ldGZsaXgyMDIwLm1wNCZub25jZT03MzNkZmIyNDExOGYmZXhwaXJhdGlvbl90cz0xNjQwMzg2NDgyJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby9kMTNhNDZjODkyOWU0ODhlOTE3MjA0MWQ3ZDRlNjBlYi8xMDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=264bdaaecea997b29fa7ff74fa745c4ed1a64815
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Sérgio
+https://vod-meta.wix.com/secure-files/08b6bf60ffa541f0817529147dea141a.mp4?secure_data=c2F2ZV9hc19uYW1lPVNlcmdpbzIwMjBOZXRmbGl4MS5tcDQmbm9uY2U9N2EwYTZkOTcwMDliJmV4cGlyYXRpb25fdHM9MTY0MDM4NjUxMSZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vMDhiNmJmNjBmZmE1NDFmMDgxNzUyOTE0N2RlYTE0MWEvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=4f95a14b3d3ec42211216b300246098d6f7adbc3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Memória de um Crime
+https://vod-meta.wix.com/secure-files/35366fe5c23f47a68007859e2d873489.mp4?secure_data=c2F2ZV9hc19uYW1lPW1lbW9yaWFkZXVtY3JpbWUubXA0Jm5vbmNlPTU2Y2I4YmZkNDg5YiZleHBpcmF0aW9uX3RzPTE2NDAzODY1MzYmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzM1MzY2ZmU1YzIzZjQ3YTY4MDA3ODU5ZTJkODczNDg5LzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=b4979e5e287936529116df967e7c55351ded2ba4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",A casa
+https://vod-meta.wix.com/secure-files/4a0a95094d3642e295596f8679ec72b3.mp4?secure_data=c2F2ZV9hc19uYW1lPUEuQ2FzYS4yMDIwLk5ldGZsaXgubXA0Jm5vbmNlPWZlYjcxYWVjYzg0MCZleHBpcmF0aW9uX3RzPTE2NDAzOTA0NTQmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzRhMGE5NTA5NGQzNjQyZTI5NTU5NmY4Njc5ZWM3MmIzLzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=d875c4d1d7885b1a11d9be59343088f968ca22bc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",,O Diabo de Cada Dia
+https://vod-meta.wix.com/secure-files/7f208f90c69f43098730613fe3e4ab2b.mp4?secure_data=c2F2ZV9hc19uYW1lPU8uRGlhYm8uZGUuQ2FkYS5EaWEuMjAyMC5tcDQmbm9uY2U9ZjM3NDIzMjdiZjkwJmV4cGlyYXRpb25fdHM9MTY0MDM5MjA4MCZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vN2YyMDhmOTBjNjlmNDMwOTg3MzA2MTNmZTNlNGFiMmIvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=d798c2f4731418044791876b91784165b5ff1641
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Remédio Amargo
+https://vod-meta.wix.com/secure-files/42d3f3f2646c45be9f00f67b0d7c8a6a.mp4?secure_data=c2F2ZV9hc19uYW1lPVJlbWVkaW8uQW1hcmdvLjIwMjAubXA0Jm5vbmNlPTIxMzMxNGRkOWYwNCZleHBpcmF0aW9uX3RzPTE2NDAzOTIxMjEmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzQyZDNmM2YyNjQ2YzQ1YmU5ZjAwZjY3YjBkN2M4YTZhLzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=c15a2b186e03ad6ac3d8c4e57febd7b50419044a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Desejo Sombrio
+https://video.wixstatic.com/video/cc7aad_fef8b1f103104d74863a31ad27764798/1080p/mp4/file.mp4
+##EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Encontro Fatal
+https://vod-meta.wix.com/secure-files/2abdca40f44a46328247a1ef12f50dc1.mp4?secure_data=c2F2ZV9hc19uYW1lPUVuY29udHJvLkZhdGFsLjIwMjAubXA0Jm5vbmNlPWFmMDFkZmE3OGJhMyZleHBpcmF0aW9uX3RzPTE2NDAzOTIyMTMmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzJhYmRjYTQwZjQ0YTQ2MzI4MjQ3YTFlZjEyZjUwZGMxLzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=7fb1f6d715521e2f59df7dac28c333abbcd1c997
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Por Lugares Incríveis
+https://vod-meta.wix.com/secure-files/2643ce31651b412aa5489861ea273cee.mp4?secure_data=c2F2ZV9hc19uYW1lPVBvci5MdWdhcmVzLkluY3JpdmVpcy4yMDIwLm1wNCZub25jZT03ZjQ3MTk3MmZkYjQmZXhwaXJhdGlvbl90cz0xNjQwMzkyMjYxJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8yNjQzY2UzMTY1MWI0MTJhYTU0ODk4NjFlYTI3M2NlZS83MjBwL21wNC9maWxlLm1wNA==&secure_sig=7a78eb349fad526fab26a0a03d7988ba7f7bc171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Rede de Ódio
+https://vod-meta.wix.com/secure-files/71a7f3d1f0264b37ac84c22b8caa4ca0.mp4?secure_data=c2F2ZV9hc19uYW1lPVJlZGUuZGUuT2Rpby4yMDIwLm1wNCZub25jZT04NTFiYTE4YTM4NmImZXhwaXJhdGlvbl90cz0xNjQwMzkyMjkwJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby83MWE3ZjNkMWYwMjY0YjM3YWM4NGMyMmI4Y2FhNGNhMC80ODBwL21wNC9maWxlLm1wNA==&secure_sig=7f73b0752f245c2d0da1b4f2a709c2bcd891cad0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Chappie
+https://vod-meta.wix.com/secure-files/8d2af61d2d5f492291b0e6b9c6bf9774.mp4?secure_data=c2F2ZV9hc19uYW1lPUNoYXBwaWUuMjAxNS5tcDQmbm9uY2U9NTc0ZDgzM2FlOGRmJmV4cGlyYXRpb25fdHM9MTY0MDM5MjM1MiZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vOGQyYWY2MWQyZDVmNDkyMjkxYjBlNmI5YzZiZjk3NzQvNDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=87c40cf0dc7d16c9d8ec2f619011554b9953b48b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Homem do Futuro
+https://vod-meta.wix.com/secure-files/f9f7bdebf5b641b9b40048879707cade.mp4?secure_data=c2F2ZV9hc19uYW1lPU9Ib21lbWRvRnV0dXJvLm1wNCZub25jZT0wZjVhMDk5YjdmNTQmZXhwaXJhdGlvbl90cz0xNjQwMzkyNzY0JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby9mOWY3YmRlYmY1YjY0MWI5YjQwMDQ4ODc5NzA3Y2FkZS83MjBwL21wNC9maWxlLm1wNA==&secure_sig=786a0dcf2247336d030f916606ad3f7d2dd5213d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Horizonte Profundo - Desastre no Golfo
+https://vod-meta.wix.com/secure-files/3166f599110145768dcbcccbaa5743b1.mp4?secure_data=c2F2ZV9hc19uYW1lPUhvcml6b250ZS5Qcm9mdW5kby5EZXNhc3RyZS5uby5Hb2xmby4yMDE3Lm1wNCZub25jZT00ZWIzNjMyZDkwODQmZXhwaXJhdGlvbl90cz0xNjQwMzkyNzg5JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8zMTY2ZjU5OTExMDE0NTc2OGRjYmNjY2JhYTU3NDNiMS80ODBwL21wNC9maWxlLm1wNA==&secure_sig=8143fcdf612a77721e957f30b221899e95885a0a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",The Dirt: Confissões do MÃ¶tley CrÃ¼e
+https://vod-meta.wix.com/secure-files/3452421cc7e44a7f9d5b7fbff840c29a.mp4?secure_data=c2F2ZV9hc19uYW1lPVRoZS5EaXJ0LjIwMTkubXA0Jm5vbmNlPTJkMTQwZWQ0ZGYzNiZleHBpcmF0aW9uX3RzPTE2NDAzOTI4MjUmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzM0NTI0MjFjYzdlNDRhN2Y5ZDViN2ZiZmY4NDBjMjlhLzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=f75040f332bf7b14fadad8ab139f10771d7758dd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Menino que Descobriu o Vento
+https://vod-meta.wix.com/secure-files/16c90b3bd852431785b61bcce0340242.mp4?secure_data=c2F2ZV9hc19uYW1lPU8uTWVuaW5vLnF1ZS5EZXNjb2JyaXUuby5WZW50by4yMDE5Lm1wNCZub25jZT0xNjE1YjExYTg1NDQmZXhwaXJhdGlvbl90cz0xNjQwMzkyOTAxJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8xNmM5MGIzYmQ4NTI0MzE3ODViNjFiY2NlMDM0MDI0Mi83MjBwL21wNC9maWxlLm1wNA==&secure_sig=d8715803974659331fbdc7b0735c0196196864aa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Homem Perfeito
+https://vod-meta.wix.com/secure-files/776e93f1b74d4e0f8d22751a07903da9.mp4?secure_data=c2F2ZV9hc19uYW1lPU8uSG9tZW0uUGVyZmVpdG8uMjAxOS5tcDQmbm9uY2U9MjU3MTllN2VjOTdmJmV4cGlyYXRpb25fdHM9MTY0MDM5Mjk0MyZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vNzc2ZTkzZjFiNzRkNGUwZjhkMjI3NTFhMDc5MDNkYTkvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=d53762b0fe3a4310b77b948a17be0897d527eb05
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Scooby-Doo 2: Monstros à Solta
+https://vod-meta.wix.com/secure-files/98c6ba403b8840ddbbd66b99bccdbc43.mp4?secure_data=c2F2ZV9hc19uYW1lPVNjb29ieURvbzJNb25zdHJvcyVDMyVBMFNvbHRhLm1wNCZub25jZT03OTAyMjViZWExZjMmZXhwaXJhdGlvbl90cz0xNjQwMzkyOTc1JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby85OGM2YmE0MDNiODg0MGRkYmJkNjZiOTliY2NkYmM0My83MjBwL21wNC9maWxlLm1wNA==&secure_sig=c185fa89a64362caa73817121f359c1ebbb7ec78
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Scooby-Doo
+https://vod-meta.wix.com/secure-files/94d202d84d39452abc257bac1dddd5a3.mp4?secure_data=c2F2ZV9hc19uYW1lPVNjb29ieS1Eb28ubXA0Jm5vbmNlPTA5OThkZjc0MzhjYSZleHBpcmF0aW9uX3RzPTE2NDAzOTMwMTgmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzk0ZDIwMmQ4NGQzOTQ1MmFiYzI1N2JhYzFkZGRkNWEzLzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=efd5f8195048b4d3e449683c02aa2956b60a2517
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Solo
+https://vod-meta.wix.com/secure-files/e107e952b8574841b9fe5c515a8704e7.mp4?secure_data=c2F2ZV9hc19uYW1lPVNvbG8uMjAxOS5tcDQmbm9uY2U9YTUzYTkzZTVhOTUzJmV4cGlyYXRpb25fdHM9MTY0MDM5MzI0NiZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vZTEwN2U5NTJiODU3NDg0MWI5ZmU1YzUxNWE4NzA0ZTcvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=53686f4005cd4e60ba5b3c2ff953ab2be41af20c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Ultras
+https://vod-meta.wix.com/secure-files/15d3c679ac444b2e9d9de7d66ed75eca.mp4?secure_data=c2F2ZV9hc19uYW1lPVVsdHJhcy4yMDIwLm1wNCZub25jZT00NDBmMmQ1ZTEwODkmZXhwaXJhdGlvbl90cz0xNjQwMzkzMjk2JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8xNWQzYzY3OWFjNDQ0YjJlOWQ5ZGU3ZDY2ZWQ3NWVjYS83MjBwL21wNC9maWxlLm1wNA==&secure_sig=a051e66bb90cdd94464d601fb3853a8de1aa3009
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Preço de um Resgate
+https://vod-meta.wix.com/secure-files/7eeb030f29744b5eae9bb16b513ac6bc.mp4?secure_data=c2F2ZV9hc19uYW1lPU9QcmUlQzMlQTdvZGV1bVJlc2dhdGUubXA0Jm5vbmNlPWRjYTQwNGFjNWQ0NiZleHBpcmF0aW9uX3RzPTE2NDAzOTMzMjcmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzdlZWIwMzBmMjk3NDRiNWVhZTliYjE2YjUxM2FjNmJjLzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=86e3442d2c395f733f88327845c59774db6f6e66
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Os Irmãos Willoughby
+https://vod-meta.wix.com/secure-files/581ac60a31a145c58ad2e0e103757c6e.mp4?secure_data=c2F2ZV9hc19uYW1lPU9zSXJtYW9zV2lsbG91Z2hieTIwMjAubXA0Jm5vbmNlPTQzOWYyMTM2NGQ5NCZleHBpcmF0aW9uX3RzPTE2NDAzOTMzNjAmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzU4MWFjNjBhMzFhMTQ1YzU4YWQyZTBlMTAzNzU3YzZlLzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=60a2f065132ac3f1f268ce4be823ba6b7f74981e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Amor com Data Marcada
+https://vod-meta.wix.com/secure-files/a10ac63f70024e6b9c644f0207262e42.mp4?secure_data=c2F2ZV9hc19uYW1lPUFtb3Jjb21EYXRhTWFyY2FkYS5tcDQmbm9uY2U9OWQyNjUxYjAyYzQxJmV4cGlyYXRpb25fdHM9MTY0MDM5MzQ0OSZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vYTEwYWM2M2Y3MDAyNGU2YjljNjQ0ZjAyMDcyNjJlNDIvMTA4MHAvbXA0L2ZpbGUubXA0&secure_sig=8b7f7f4a93929fa3ba7aebed7b8e50c282414ab0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",A Caminho da Lua
+https://vod-meta.wix.com/secure-files/f4ec1d13bb444c99958ed7c5e4efe186.mp4?secure_data=c2F2ZV9hc19uYW1lPUFDYW1pbmhvZGFMdWEyMDIwLm1wNCZub25jZT1hZmIyMWM4NzRmMTcmZXhwaXJhdGlvbl90cz0xNjQwMzkzNDc5JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby9mNGVjMWQxM2JiNDQ0Yzk5OTU4ZWQ3YzVlNGVmZTE4Ni83MjBwL21wNC9maWxlLm1wNA==&secure_sig=77063496b59770378d8e1e906c584d93b08b1577
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Quatro Histórias de Fantasia
+https://vod-meta.wix.com/secure-files/251aa772b24b420db36258d75d0f3c74.mp4?secure_data=c2F2ZV9hc19uYW1lPVF1YXRyby5IaXN0b3JpYXMuZGUuRmFudGFzbWFzLjIwMjAuNzIwcC5XRUItREwuNkNILngyNjQtRFVBTC5tcDQmbm9uY2U9ZWJjMjdlZmUzZjI0JmV4cGlyYXRpb25fdHM9MTY0MDM5MzUwNCZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vMjUxYWE3NzJiMjRiNDIwZGIzNjI1OGQ3NWQwZjNjNzQvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=4be9768879c8168729b377c5a2d1877e26fabc83
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",6 Dias
+https://vod-meta.wix.com/secure-files/34c7d20fc1c3408fa0b5c973a4d1c6a3.mp4?secure_data=c2F2ZV9hc19uYW1lPTYuRGlhcy4yMDE3Lm1wNCZub25jZT1mMGEyNWFiNmFjMGEmZXhwaXJhdGlvbl90cz0xNjQwMzkzNTM3JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8zNGM3ZDIwZmMxYzM0MDhmYTBiNWM5NzNhNGQxYzZhMy80ODBwL21wNC9maWxlLm1wNA==&secure_sig=476191333110261c69396b82eaafcff1107c3a14
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Despedida em grande estilo
+https://vod-meta.wix.com/secure-files/c819736c7c464be787a7581a679068e4.mp4?secure_data=c2F2ZV9hc19uYW1lPURlc3BlZGlkYS5lbS5HcmFuZGUuRXN0aWxvLjIwMTcubXA0Jm5vbmNlPWNhMjkxNzllMTMxMiZleHBpcmF0aW9uX3RzPTE2NDAzOTM1NzAmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvL2M4MTk3MzZjN2M0NjRiZTc4N2E3NTgxYTY3OTA2OGU0LzQ4MHAvbXA0L2ZpbGUubXA0&secure_sig=a43dd99fa9343c406341bae3c3cece5faab54fcf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",A Lavanderia
+https://vod-meta.wix.com/secure-files/14ad6347a2f647a0a0edca450314c0c8.mp4?secure_data=c2F2ZV9hc19uYW1lPUEuTGF2YW5kZXJpYS4yMDE5Lm1wNCZub25jZT1hZGFlODdkOGEzYmImZXhwaXJhdGlvbl90cz0xNjQwMzkzNTkzJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8xNGFkNjM0N2EyZjY0N2EwYTBlZGNhNDUwMzE0YzBjOC83MjBwL21wNC9maWxlLm1wNA==&secure_sig=a346a20acb231f384ba59e504a4cee58411d28bf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Aviador
+https://vod-meta.wix.com/secure-files/a1d1b9a369664b1c8ae9dcf719a9de17.mp4?secure_data=c2F2ZV9hc19uYW1lPU9BdmlhZG9yNzIwUDIwMDQubXA0Jm5vbmNlPWM0OTBkNTgzZmQwMyZleHBpcmF0aW9uX3RzPTE2NDAzOTM2NjUmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvL2ExZDFiOWEzNjk2NjRiMWM4YWU5ZGNmNzE5YTlkZTE3LzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=c597a46010686e57949c254959261830df0594bb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Halloween do Hubie
+https://vod-meta.wix.com/secure-files/9a251026325c459aa56020bdc9502f09.mp4?secure_data=c2F2ZV9hc19uYW1lPU8uSGFsbG93ZWVuLmRvLkh1YmllLjIwMjAubXA0Jm5vbmNlPTIxMGNjYmJkODgxZiZleHBpcmF0aW9uX3RzPTE2NDAzOTM3MzEmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzlhMjUxMDI2MzI1YzQ1OWFhNTYwMjBiZGM5NTAyZjA5LzcyMHAvbXA0L2ZpbGUubXA0&secure_sig=9c486d1434b596c9cbc66e02f3a321c99b97651b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Tudo Bem no Natal Que Vem
+https://vod-meta.wix.com/secure-files/d5cab7f93a944b728aa15737fc261202.mp4?secure_data=c2F2ZV9hc19uYW1lPVR1ZG9CZW1Ob05hdGFsUXVlVmVtLm1wNCZub25jZT1jZjcwYWE5OWE4MzQmZXhwaXJhdGlvbl90cz0xNjQwMzkzNzY5JmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby9kNWNhYjdmOTNhOTQ0YjcyOGFhMTU3MzdmYzI2MTIwMi8xMDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=334e507993852e1c9694d81a0bb91379700d9a30
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Vozes
+https://vod-meta.wix.com/secure-files/1ea4855b1bf6499aa4b29b7cb962bba2.mp4?secure_data=c2F2ZV9hc19uYW1lPVZvemVzMjAyMC5tcDQmbm9uY2U9MTI1OWEwZjk0NDQwJmV4cGlyYXRpb25fdHM9MTY0MDM5Mzc5MCZidWNrZXQ9d2l4bXAtdm9kJmZpbGVfdXJsPS83NTQ2NmI5Ni1jMTE1LTRlYzEtYmVlMC03MTQ4MTgxMzJmZTQvdmlkZW8vMWVhNDg1NWIxYmY2NDk5YWE0YjI5YjdjYjk2MmJiYTIvNzIwcC9tcDQvZmlsZS5tcDQ=&secure_sig=6144a83275cb5c45243a1ba9b9bf83f841f42f57
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",O Céu da Meia-Noite
+https://vod-meta.wix.com/secure-files/0ab10a94b6874782b529abe0f9dfb245.mp4?secure_data=c2F2ZV9hc19uYW1lPU9DZXVEYU1laWFOb2l0ZTIwMjAubXA0Jm5vbmNlPWM5ZmY2ZWNjOTU4NyZleHBpcmF0aW9uX3RzPTE2NDAzOTM4NDgmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzBhYjEwYTk0YjY4NzQ3ODJiNTI5YWJlMGY5ZGZiMjQ1LzEwODBwL21wNC9maWxlLm1wNA==&secure_sig=807fdf4c1b3ddc4a9701d5fb203d5898ffb079c8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Fica Comigo
+https://vod-meta.wix.com/secure-files/1b64c0afd4e342549319dae751871930.mp4?secure_data=c2F2ZV9hc19uYW1lPUZpY2FDb21pZ28ubXA0Jm5vbmNlPTNlMmQ5M2JkNDU2YSZleHBpcmF0aW9uX3RzPTE2NDAzOTM4ODAmYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzFiNjRjMGFmZDRlMzQyNTQ5MzE5ZGFlNzUxODcxOTMwLzQ4MHAvbXA0L2ZpbGUubXA0&secure_sig=b67a34dc295f28937f795c606eab0407007bda65
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Origens Secretas
+https://vod-meta.wix.com/secure-files/1e3e39f906054531b5ff8c0dc7bf7cd2.mp4?secure_data=c2F2ZV9hc19uYW1lPU9yaWdlbnMuU2VjcmV0YXMuMjAyMC4xMDgwLm1wNCZub25jZT03ZDc4ZTVmZjdkYmImZXhwaXJhdGlvbl90cz0xNjQwMzkzOTIxJmJ1Y2tldD13aXhtcC12b2QmZmlsZV91cmw9Lzc1NDY2Yjk2LWMxMTUtNGVjMS1iZWUwLTcxNDgxODEzMmZlNC92aWRlby8xZTNlMzlmOTA2MDU0NTMxYjVmZjhjMGRjN2JmN2NkMi8xMDgwcC9tcDQvZmlsZS5tcDQ=&secure_sig=97f4143320823520f241272751e754bf5a316284
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX",Além da Realidade
+https://vod-meta.wix.com/secure-files/32da4230b7424d058aed58ad6ff9e179.mp4?secure_data=c2F2ZV9hc19uYW1lPUFsZW1kYVJlYWxpZGFkZTIwMTYubXA0Jm5vbmNlPTBjNjU4MjVkNWVmOSZleHBpcmF0aW9uX3RzPTE2NDAzOTM5ODImYnVja2V0PXdpeG1wLXZvZCZmaWxlX3VybD0vNzU0NjZiOTYtYzExNS00ZWMxLWJlZTAtNzE0ODE4MTMyZmU0L3ZpZGVvLzMyZGE0MjMwYjc0MjRkMDU4YWVkNThhZDZmZjllMTc5LzQ4MHAvbXA0L2ZpbGUubXA0&secure_sig=cffef5a4c61b8a6e75d1047c3415d27ce86db78b
+
+
+
+################################################################################# NETFLIX SERIES
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP1
+https://video.wixstatic.com/video/cc7aad_135f73c857714bd98ae4e99f6e43129a/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP2
+https://video.wixstatic.com/video/cc7aad_bef2669dd6724ec19c9af2b1df2d439e/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP3
+https://video.wixstatic.com/video/cc7aad_c3da458257364fd2b8b5e519485a9480/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP4
+https://video.wixstatic.com/video/cc7aad_c5eba7da1a1547beb91d9b525482511f/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP5
+https://video.wixstatic.com/video/cc7aad_326398b0046e45ed8bc1629a537bab10/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP6
+https://video.wixstatic.com/video/cc7aad_483088bb87324bedb0f9204dfd7b6d6f/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP7
+https://video.wixstatic.com/video/cc7aad_48f76054074b41a7b63f1f0bc6816752/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP8
+https://video.wixstatic.com/video/cc7aad_f23459069c83473bbfa494cd4d38f109/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 6EP9
+https://video.wixstatic.com/video/cc7aad_bbb3fc09705f485e9d056e540545f5d0/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP1
+https://video.wixstatic.com/video/cc7aad_ec5f06b6541141f09c8336837fba7548/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP2
+https://video.wixstatic.com/video/cc7aad_2f87efce353549c3a154a611aede5e7a/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP3
+https://video.wixstatic.com/video/cc7aad_947e2061a3b341be8daf78d2be3b299d/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP4
+https://video.wixstatic.com/video/cc7aad_053217ca6ccb4c118fac4de8207d1e05/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP5
+https://video.wixstatic.com/video/cc7aad_cc48fe3f42c14a13a05e93b8926630db/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP6
+https://video.wixstatic.com/video/cc7aad_38d8b494acb84b118f86407d274853a8/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP7
+https://video.wixstatic.com/video/cc7aad_f504e6420de8416b9666f2d07af29995/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP8
+https://video.wixstatic.com/video/cc7aad_bbb1563babea4f63926d4cb9ac51bef0/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 1EP9
+https://video.wixstatic.com/video/cc7aad_5e8ac2b0530d4384b9836f6932db37a1/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP1
+https://video.wixstatic.com/video/cc7aad_9e2d9b02b6f44144b9c0bcc705399184/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP2
+https://video.wixstatic.com/video/cc7aad_46c875782f7e49ce982cf55a2e0ec23d/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP3
+https://video.wixstatic.com/video/cc7aad_9bad1ddcc562496997e45d50a03078cf/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP4
+https://video.wixstatic.com/video/cc7aad_fab123b58805468187c367c907ee4f89/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP5
+https://video.wixstatic.com/video/cc7aad_fab123b58805468187c367c907ee4f89/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP6
+https://video.wixstatic.com/video/cc7aad_1c592ad80750430c9e644679b4aa74e6/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP7
+https://video.wixstatic.com/video/cc7aad_bc6b35f720db43418ecd30e75aab8f60/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP8
+https://video.wixstatic.com/video/cc7aad_012dd666d48e4a0ab33078e64e6049be/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP9
+https://video.wixstatic.com/video/cc7aad_ad538a55d15b4348a805f87e15c4542d/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NETFLIX SERIES",TEMP 2EP10
+https://video.wixstatic.com/video/cc7aad_800230a5090d43c49f7f491d5a819cbd/1080p/mp4/file.mp4
