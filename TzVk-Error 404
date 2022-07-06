@@ -7,13 +7,13 @@
 
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo
-
+https://live.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=4196744&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMzo0MCBBTSZoYXNoX3ZhbHVlPUhOeGZXYW9IUW1WeFNpSkpkUDhvaWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="TV Aberta",Band
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT
-
+https://live.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=4196744&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMzo0MCBBTSZoYXNoX3ZhbHVlPUhOeGZXYW9IUW1WeFNpSkpkUDhvaWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 
 ################################################################################ Esportes
@@ -41,14 +41,14 @@
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
-
+https://cdn1.xvideosporn.me/p2p/sportv/chunks.m3u8?nimblesessionid=569619&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNDo0MiBBTSZoYXNoX3ZhbHVlPWpkK0lPbDFIY0dBMVY3aXVDS0l1TXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
-
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
-
+https://live.xvideosporn.me/p2p/sportv2/chunks.m3u8?nimblesessionid=4196761&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNToyNCBBTSZoYXNoX3ZhbHVlPXZBdjdBOUJDQXIzYlB1VWNORndKcXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="SPORTV 3"tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
+https://live.xvideosporn.me/p2p/sportv3/chunks.m3u8?nimblesessionid=4196771&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNjoxMCBBTSZoYXNoX3ZhbHVlPWR3ejNBSWN6eGxoVEZVSHV0WnhPeUE9PSZ2YWxpZG1pbnV0ZXM9OTA
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+https://live.xvideosporn.me/p2p/sportv3/chunks.m3u8?nimblesessionid=4196771&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNjoxMCBBTSZoYXNoX3ZhbHVlPWR3ejNBSWN6eGxoVEZVSHV0WnhPeUE9PSZ2YWxpZG1pbnV0ZXM9OTA
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 
 
 
 
