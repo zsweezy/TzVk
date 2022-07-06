@@ -7,202 +7,88 @@
 
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo
-https://live.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=4196744&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMzo0MCBBTSZoYXNoX3ZhbHVlPUhOeGZXYW9IUW1WeFNpSkpkUDhvaWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+https://live.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=4203917&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzozNDo1OCBQTSZoYXNoX3ZhbHVlPXlPRjhxTWxmTVhYZlg4cFJDcUEzdEE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="TV Aberta",Band
-
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT
-https://live.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=4196744&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMzo0MCBBTSZoYXNoX3ZhbHVlPUhOeGZXYW9IUW1WeFNpSkpkUDhvaWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 
 ################################################################################ Esportes
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports HD
-
-#EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
-
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2
-
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra
-
-#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
-
-#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
-
+https://live.xvideosporn.me/p2p/spn2/chunks.m3u8?nimblesessionid=4204733&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDozMCBQTSZoYXNoX3ZhbHVlPTV4Vm92Q3lNOUR1NTA2eWRaeWtLTGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN 4
+https://live.xvideosporn.me/p2p/spn4/chunks.m3u8?nimblesessionid=4204747&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDozNSBQTSZoYXNoX3ZhbHVlPWhhRFR0YVp5L2htbElBMnljSzVkRkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
-
+https://live.xvideosporn.me/p2p/combate/chunks.m3u8?nimblesessionid=4204404&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1MTowNyBQTSZoYXNoX3ZhbHVlPXlNd0Y4MjIrSUpTbWhBSmtWR0pYU0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
-https://cdn1.xvideosporn.me/p2p/sportv/chunks.m3u8?nimblesessionid=569619&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNDo0MiBBTSZoYXNoX3ZhbHVlPWpkK0lPbDFIY0dBMVY3aXVDS0l1TXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+https://live.xvideosporn.me/p2p/sportv/chunks.m3u8?nimblesessionid=4204041&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzozNzo1MyBQTSZoYXNoX3ZhbHVlPTRyOFd0Q2RrL0ZYOXhrWjUzZVcyc1E9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
-https://live.xvideosporn.me/p2p/sportv2/chunks.m3u8?nimblesessionid=4196761&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNToyNCBBTSZoYXNoX3ZhbHVlPXZBdjdBOUJDQXIzYlB1VWNORndKcXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="SPORTV 3"tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
-https://live.xvideosporn.me/p2p/sportv3/chunks.m3u8?nimblesessionid=4196771&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNjoxMCBBTSZoYXNoX3ZhbHVlPWR3ejNBSWN6eGxoVEZVSHV0WnhPeUE9PSZ2YWxpZG1pbnV0ZXM9OTA
+https://live.xvideosporn.me/p2p/sportv2/chunks.m3u8?nimblesessionid=4204148&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzozNzo1NSBQTSZoYXNoX3ZhbHVlPUZacTZ3My9RU0Z6anhvdittZlhFWVE9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes",SporTV 3
+https://live.xvideosporn.me/p2p/sportv3/chunks.m3u8?nimblesessionid=4204158&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzozNzo1NyBQTSZoYXNoX3ZhbHVlPUpqZUVnSE1iWnJld0p3TFpCMmI4S3c9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
-https://live.xvideosporn.me/p2p/sportv3/chunks.m3u8?nimblesessionid=4196771&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowNjoxMCBBTSZoYXNoX3ZhbHVlPWR3ejNBSWN6eGxoVEZVSHV0WnhPeUE9PSZ2YWxpZG1pbnV0ZXM9OTA
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 
-
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+https://live.xvideosporn.me/p2p/foxsport2/chunks.m3u8?nimblesessionid=4204167&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzozNzo1OSBQTSZoYXNoX3ZhbHVlPWQ5RXIwZEFOamN6ajZvYTdON2Q3aGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 
 ################################################################################# Infantil
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="Infantil",Gospel Cartoon
-
-#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo
-
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
-
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-
 #EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-
+https://live.xvideosporn.me/p2p/tooncast/chunks.m3u8?nimblesessionid=4205082&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozMSBQTSZoYXNoX3ZhbHVlPUNIdnpDcTEyd1dhdldLRGswT29UR1E9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho
-
+https://live.xvideosporn.me/p2p/globinho/chunks.m3u8?nimblesessionid=4205072&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozMCBQTSZoYXNoX3ZhbHVlPU9uWFluSzdsZzREbkRTUHFKUHplT3c9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
-
+https://live.xvideosporn.me/p2p/gloob/chunks.m3u8?nimblesessionid=4205055&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjoyOCBQTSZoYXNoX3ZhbHVlPUFQblNNZ0daZUIxeVhzQ1hTL2YrblE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
-
+https://live.xvideosporn.me/p2p/nickelodeon/chunks.m3u8?nimblesessionid=4204995&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjoyNiBQTSZoYXNoX3ZhbHVlPVhONys1a2hxU2tiZkJ4MFlSZWs3cGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
-
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
-
+https://live.xvideosporn.me/p2p/nickjr/chunks.m3u8?nimblesessionid=4205039&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjoyNiBQTSZoYXNoX3ZhbHVlPVhONys1a2hxU2tiZkJ4MFlSZWs3cGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
-
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
-
+https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=4204458&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1MToxMSBQTSZoYXNoX3ZhbHVlPSt3Yi9kSlBTeERCQ1JJdU1ZUmFRTVE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
-
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
-
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
-
+https://live.xvideosporn.me/p2p/discoverykids/chunks.m3u8?nimblesessionid=4204588&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDoxNiBQTSZoYXNoX3ZhbHVlPUhyWUdVTm5RVjgyNXd1RFZJdUtmM3c9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
-
+https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=4204710&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDoyOCBQTSZoYXNoX3ZhbHVlPUNDV01wWlFiWmUrQUlSYVpnb1RUaVE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 
 ################################################################################# Filmes e Series
 
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
-
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
-
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://i.imgur.com/8fOTz2r.png" group-title="Filmes e Séries",HBO Plus
-
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
-
+https://live.xvideosporn.me/p2p/hbosignature/chunks.m3u8?nimblesessionid=4204807&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDo0NCBQTSZoYXNoX3ZhbHVlPUlvRld1eTRUdzRxd1pHWHZNYTU2RWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
-
+https://live.xvideosporn.me/p2p/hbofamily/chunks.m3u8?nimblesessionid=4204868&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMDoyMiBQTSZoYXNoX3ZhbHVlPWZMMWp4NmtIK0F4T29VVmw5NDYrdHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="http://i.imgur.com/5q7QN2J.png" group-title="Filmes e Séries",HBO Mundi
-
+https://live.xvideosporn.me/p2p/hbomundi/chunks.m3u8?nimblesessionid=4204878&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMDoyMSBQTSZoYXNoX3ZhbHVlPVZRSzVSKzlWekZNemhGd1FCNEY1Nmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="http://i.imgur.com/nO17EQV.png" group-title="Filmes e Séries",HBO Xtreme
-
+https://live.xvideosporn.me/p2p/hboextreme/chunks.m3u8?nimblesessionid=4204839&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMDoyMSBQTSZoYXNoX3ZhbHVlPVZRSzVSKzlWekZNemhGd1FCNEY1Nmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="http://i.imgur.com/1eslf5M.png" group-title="Filmes e Séries",HBO Pop
-
+https://live.xvideosporn.me/p2p/hbo/chunks.m3u8?nimblesessionid=4204680&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDoyNSBQTSZoYXNoX3ZhbHVlPWhEUk5ybVRCaUdZTCtONVZEUm1yMnc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://i.imgur.com/9n9boo3.png" group-title="Filmes e Séries",Telecine Action
-
+https://live.xvideosporn.me/p2p/tlcaction/chunks.m3u8?nimblesessionid=4204180&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo0Mjo0NSBQTSZoYXNoX3ZhbHVlPWdaSDVkNTdOMncxb3dwcGxRU2djYmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://i.imgur.com/ZZxY55p.png" group-title="Filmes e Séries",Telecine Premium
-
+https://live.xvideosporn.me/p2p/tlcpremium/chunks.m3u8?nimblesessionid=4204196&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo0Mjo0OCBQTSZoYXNoX3ZhbHVlPWhLRXlxV3ZBZXF3QXBUREx1c3N3WFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://i.imgur.com/Ns47Tfm.png" group-title="Filmes e Séries",Telecine Touch
-
 #EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://i.imgur.com/9nwihyb.png" group-title="Filmes e Séries",Telecine Fun
-
+https://live.xvideosporn.me/p2p/tlcfun/chunks.m3u8?nimblesessionid=4204329&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo0Mjo1MCBQTSZoYXNoX3ZhbHVlPUx1MU9SRXhBMkkzZ1ZFTGVGN20xRGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/HtsOTJm.png" group-title="Filmes e Séries",Telecine Pipoca
-
-#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://i.imgur.com/fPwVtGc.png" group-title="Filmes e Séries",Telecine Cult
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Filmes e Séries",Film&Arts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Filmes e Séries",Film&Arts HD
-
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E
-
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E HD
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN HD
-
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
-
+https://live.xvideosporn.me/p2p/tlcpipoca/chunks.m3u8?nimblesessionid=4204190&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo0Mjo0NyBQTSZoYXNoX3ZhbHVlPUpQVmZXTzFVVUNZZ0ZJTTdmSHRVUnc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="http://i.imgur.com/pjtRpMJ.png" group-title="Filmes e Séries",Star Channel
-
-#EXTINF:-1 tvg-id="STAR HITS 1" tvg-logo="http://i.imgur.com/ie6taEZ.png" group-title="Filmes e Séries",Star Hits 1
-
-#EXTINF:-1 tvg-id="STAR HITS 2" tvg-logo="http://i.imgur.com/bYR6Cmh.png" group-title="Filmes e Séries",Star Hits 2
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
-
+https://live.xvideosporn.me/p2p/starlife/chunks.m3u8?nimblesessionid=4204546&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1Mzo0NCBQTSZoYXNoX3ZhbHVlPXF2NmJieHd5RU56Q00ySzA3cnFORXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
-
+https://live.xvideosporn.me/p2p/megapix/chunks.m3u8?nimblesessionid=4204649&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDoyMCBQTSZoYXNoX3ZhbHVlPUVDSUJNMmhCVUNYZGxtcnpMZlZHZGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
-
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
-
+https://live.xvideosporn.me/p2p/space/chunks.m3u8?nimblesessionid=4205104&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozNiBQTSZoYXNoX3ZhbHVlPTlnbHBuWWYyNGZFeithMnBLL2ljSlE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/OAm1Jy6.png" group-title="Filmes e Séries",Comedy Central
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/OAm1Jy6.png" group-title="Filmes e Séries",Comedy Central HD
-
-#EXTINF:-1 tvg-id="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
-
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
-
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal
-
-#EXTINF:-1 tvg-id="SONY" tvg-logo="http://i.imgur.com/KjvoSeG.png" group-title="Filmes e Séries",Sony
-
-#EXTINF:-1 tvg-id="SONY" tvg-logo="http://i.imgur.com/KjvoSeG.png" group-title="Filmes e Séries",Sony HD
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
-
+https://live.xvideosporn.me/p2p/comedycentral/chunks.m3u8?nimblesessionid=4204788&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDo0MiBQTSZoYXNoX3ZhbHVlPWJwRnJPZFc5U3MzQnlKTk1tWkY2N1E9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
-https://live.xvideosporn.me/p2p/hbomax5/chunks.m3u8?nimblesessionid=4196885&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDoxMToyOCBBTSZoYXNoX3ZhbHVlPXVqcFU2Nlp4Q0QrTnFaKzZ6OHg4NlE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner HD
-
-
-
-################################################################################# Notícias
-
-
-
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
-
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News
-
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
-
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Notícias",Bloomberg
+https://live.xvideosporn.me/p2p/tnt/chunks.m3u8?nimblesessionid=4205219&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowODowOSBQTSZoYXNoX3ZhbHVlPURCSkg2aEsvajRTQ21BYkNXZWV0T2c9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 
 
@@ -210,49 +96,20 @@ https://live.xvideosporn.me/p2p/hbomax5/chunks.m3u8?nimblesessionid=4196885&wmsA
 
 
 
-#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
-
-#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
-
-#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
-
-#EXTINF:-1 tvg-id="CURTA" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta!
-
-#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime 
-
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-logo="http://i.imgur.com/xgAalG7.png" group-title="Documentários",Star Life
-
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC
-
-#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
-
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
-
+https://live.xvideosporn.me/p2p/animalplanet/chunks.m3u8?nimblesessionid=4205185&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjo0MSBQTSZoYXNoX3ZhbHVlPVlnZklBYkthckx5TStMekFkUUVJeFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
-
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
-
+https://live.xvideosporn.me/p2p/nationg/chunks.m3u8?nimblesessionid=4205092&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozMyBQTSZoYXNoX3ZhbHVlPVpnbHNMR3dwWG1od1dYUnhwZDJtakE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
-
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="http://i.imgur.com/4P92vil.png" group-title="Documentários",History 2
-
+https://live.xvideosporn.me/p2p/history/chunks.m3u8?nimblesessionid=4204632&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1NDoxOSBQTSZoYXNoX3ZhbHVlPWZOckxkTnowQlBNZFliR3gvYkFPcGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
-
+https://live.xvideosporn.me/p2p/discoverych/chunks.m3u8?nimblesessionid=4204352&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1MDoyMSBQTSZoYXNoX3ZhbHVlPXJVblVTMnVlOU5HK0dadlE5QWZFeUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
-
+https://live.xvideosporn.me/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=4205134&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozOCBQTSZoYXNoX3ZhbHVlPTRhYTAxQnFwY3RHeUVIQzRWOHB4bWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
-
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
-
+https://live.xvideosporn.me/p2p/discoveryinvesticacao/chunks.m3u8?nimblesessionid=4205152&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozOSBQTSZoYXNoX3ZhbHVlPW9Bc05OK2hDK0VWMGlTODJpajhodVE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World
-
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater
-
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
-
-#EXTINF:-1 tvg-id="DISCOVERY SHOWCASE" tvg-logo="http://i.imgur.com/VT4A3hc.png" group-title="Documentários",Discovery Showcase
+https://live.xvideosporn.me/p2p/discoveryword/chunks.m3u8?nimblesessionid=4205120&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDowMjozNyBQTSZoYXNoX3ZhbHVlPUpIY2ZDVHRJUmVidExXcm5GVlZSUWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 
 
@@ -260,59 +117,10 @@ https://live.xvideosporn.me/p2p/hbomax5/chunks.m3u8?nimblesessionid=4196885&wmsA
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/I8c1wzx.png" group-title="Variedade e Músicas",Classic Hits
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tu7fQmk.png" group-title="Variedade e Músicas",SCH
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/f0e271z.png" group-title="Variedade e Músicas",Cult
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NsT7bZs.png" group-title="Variedade e Músicas",Mega
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aFqRvVj.png" group-title="Variedade e Músicas",BRA
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PvgbKOp.png" group-title="Variedade e Músicas",Hitts
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/crTVjrQ.png" group-title="Variedade e Músicas",América Latino
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PFJydKG.png" group-title="Variedade e Músicas",Smithsonian
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S58zj9m.png" group-title="Variedade e Músicas",TV União
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="Variedade e Músicas",Top TV SP
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/F0m1RWE.png" group-title="Variedade e Músicas",Loading
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/pql9wHs.png" group-title="Variedade e Músicas",Gospel Music TV 
-
-#EXTINF:-1 tvg-id="CHEF TV" tvg-logo="http://i.imgur.com/saCbNDR.png" group-title="Variedade e Músicas",Chef TV
-
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil
-
-#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva
-
-#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT
-
-#EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow
+https://live.xvideosporn.me/p2p/multishow/chunks.m3u8?nimblesessionid=4204434&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMzo1MTowOSBQTSZoYXNoX3ZhbHVlPUlaRWVxU2hvVWJsQWNKeE0ybFVYWUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat
-
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
-
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV HD
-
-#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live
-
-#EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
-
-#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits
-
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedade e Músicas",Play TV
 
 
 
