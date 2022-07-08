@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x1
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x1.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x2
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x2.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x3
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x3.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x4
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x4.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x5
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x5.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x6
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x6.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x7
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x7.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x8
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x8.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x9
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x9.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x10
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x10.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x11
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x11.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x12
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x12.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x13
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x13.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x14
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x14.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x15
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x15.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x16
+http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x16.mp4
