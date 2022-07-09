@@ -1,34 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x1
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x1.mp4
+http://64.31.40.86:23818/vod/337ABF27728945F29951458D1AF4F2C0_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.40.86:23818%26app_id%3Dcom.mobile.brasiltvmobile%26trans_id%3D50UGalfYkucz_1WaetejY6i3N%26app_version%3D22401%26client_ip%3D170.150.0.99%26dev_id%3De8fcff835b44f64097492d3577212365%26auth_id%3D77076806_com.mobile.brasiltvmobile%26user_id%3D77076806%26expired%3D1657348584%26token%3D76dd99b1b282ef7275aeec1dfec85fdb&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.brasiltvmobile%26media_code%3D337ABF27728945F29951458D1AF4F2C0%26expired%3D1657348584%26token%3Dcf23c2d31b4f6dc538615b500260f6c5&cache_path=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x2
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x2.mp4
+http://64.31.40.86:23818/vod/337ABF27728945F29951458D1AF4F2C0_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.40.86:23818%26app_id%3Dcom.mobile.brasiltvmobile%26trans_id%3D50UGalfYkucz_TebWp49aEpbw%26app_version%3D22401%26client_ip%3D170.150.0.99%26dev_id%3De8fcff835b44f64097492d3577212365%26auth_id%3D77076806_com.mobile.brasiltvmobile%26user_id%3D77076806%26expired%3D1657348584%26token%3D2f8b7695d7f05d4c4bd402b8b2388ac1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.brasiltvmobile%26media_code%3D337ABF27728945F29951458D1AF4F2C0%26expired%3D1657348584%26token%3Dcf23c2d31b4f6dc538615b500260f6c5&cache_path=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x3
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x3.mp4
+http://64.31.40.86:23818/vod/337ABF27728945F29951458D1AF4F2C0_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.40.86:23818%26app_id%3Dcom.mobile.brasiltvmobile%26trans_id%3D50UGalfYkucz_6FcqDpc54ok3%26app_version%3D22401%26client_ip%3D170.150.0.99%26dev_id%3De8fcff835b44f64097492d3577212365%26auth_id%3D77076806_com.mobile.brasiltvmobile%26user_id%3D77076806%26expired%3D1657348584%26token%3D3ca3d00d387bc7705565d67431488b2f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.mobile.brasiltvmobile%26media_code%3D337ABF27728945F29951458D1AF4F2C0%26expired%3D1657348584%26token%3Dcf23c2d31b4f6dc538615b500260f6c5&cache_path=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x4
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x4.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x5
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x5.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x6
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x6.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x7
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x7.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x8
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x8.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x9
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x9.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x10
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x10.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x11
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x11.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x12
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x12.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x13
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x13.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x14
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x14.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x15
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x15.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="THE WALKING DEAD",TWD 11x16
-http://server-shd02.lionflixapp.xyz:80/token/SHD2/1402/11x16.mp4
