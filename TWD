@@ -1,31 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x1
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x1LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x2
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x2LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x3
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x3LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x4
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x4LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x5
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x5LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x6
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x6LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x7
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x7LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x8
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x8LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x9
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x9LEG.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FROM 1x10
-http://shd07.lionflixapp.xyz:80/token/SHD7/124364/1x10LEG.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",AVATAR 2
+http://apolo.playhdlugo.online:80/token.mp4/?e=/token:v11expire518706tp864/cam/AvatarOCaminhoDaAgua2022CAM.mp4
