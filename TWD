@@ -1,3 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",AVATAR 2
-http://apolo.playhdlugo.online:80/token.mp4/?e=/token:v11expire518706tp864/cam/AvatarOCaminhoDaAgua2022CAM.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",Ameaça pre historica
+http://topseries.playhdlugo.online:80/token.mp4/?e=/token:v9expire11398link612485/flm23/65AmeacaPreHistorica2023.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",AsLinhasTortasDeDeus2022
+http://topseries.playhdlugo.online:80/token.mp4/?e=/token:v9expire11398link612485/flm23/AsLinhasTortasDeDeus2022.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",HospedeIndesejado2019
+http://topseries.playhdlugo.online:80/token.mp4/?e=/token:v9expire11398link612485/flm23/HospedeIndesejado2019.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",ShazamFuriaDosDeuses2023
+http://topseries.playhdlugo.online:80/token.mp4/?e=/token:v9expire11398link612485/flm23/ShazamFuriaDosDeuses2023.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",ABaleia2023
+http://topseries.playhdlugo.online:80/token.mp4/?e=/token:v9expire11398link612485/flm23/ABaleia2023.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",M3GAN2022
+http://atena2.shipblackpoint.tk:80/token:v9expire11398link612485/flm23/M3GAN2022.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES LANÇAMENTOS",CreedIII2023
+http://atena1.shipblackpoint.tk:80/token:v9expire11398link612485/flm23/CreedIII2023.mp4
